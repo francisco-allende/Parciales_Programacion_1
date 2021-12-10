@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638793816 source:c:\users\usuario\desktop\6_12_parcialrecu1programacion\6_12_recu_programacion_1_1er_parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

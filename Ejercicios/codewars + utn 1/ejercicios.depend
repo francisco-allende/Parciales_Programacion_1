@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638734299 source:c:\users\usuario\desktop\repaso recu teo 1\codewars\ejercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
